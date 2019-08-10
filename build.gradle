@@ -5,7 +5,9 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-        jcenter()
+        // jcenter()
+        // jcenter(){ url 'http://jcenter.bintray.com/'} // http 还是很慢
+        maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'} // 换成阿里的
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.3'
@@ -20,7 +22,9 @@ allprojects {
     repositories {
         google()
         mavenCentral()
-        jcenter()
+        // jcenter()
+        // jcenter(){ url 'http://jcenter.bintray.com/'} // http 还是很慢
+        maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'} // 换成阿里的
     }
 }
 

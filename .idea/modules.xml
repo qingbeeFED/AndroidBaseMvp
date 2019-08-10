@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-MVP-Architecture.iml" filepath="$PROJECT_DIR$/Android-MVP-Architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBaseMvp.iml" filepath="$PROJECT_DIR$/AndroidBaseMvp.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-libs/base-libs.iml" filepath="$PROJECT_DIR$/base-libs/base-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-libs/base-libs.iml" filepath="$PROJECT_DIR$/base-libs/base-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
     </modules>
   </component>
